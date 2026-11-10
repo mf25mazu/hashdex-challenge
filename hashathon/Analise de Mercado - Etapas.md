@@ -33,12 +33,8 @@
 - a.2 - 
 	CoinGecko![[Pasted image 20261110084226.png]]
 	CoinMarketCap![[Pasted image 20261110084344.png]]
-	a.3 - Volatilidade diária = 
-	1. bitcoin![[volatilidade_bitcoin.xlsx]]
-	2. ethereum ![[volatilidade_ethereum.xlsx]]
-	3. usdt ![[volatilidade_tether.xlsx]]
-	4. bnb![[volatilidade_bnb 1.xlsx]]
-	5. usdc ![[volatilidade_usdc 1.xlsx]]
+- a.3 - Volatilidade diária = ![[volatilidade_top10_cripto.xlsx]]
+- b.1  
 # 4 - Soluções e priorização
 
 
