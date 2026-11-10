@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "d0c75418b0eb707f",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d24f2022588392e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "003e6527cffc81c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hashathon/Analise de Mercado - Etapas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Analise de Mercado - Etapas"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "09ccc69549e53804",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd3d2e4e0cbd4ee0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a874d1f0abf8e0d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "bd10b3bf92764c28",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b0d76d21cf41ad4f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7ecd4e82993ca8ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb38355ab254d80b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36efbb7079fe5cda",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "hashathon/Analise de Mercado - Etapas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "3f10e7fd1d12f7bf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "hashathon/Analise de Mercado - Etapas.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "f04a3152a2107d21",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5c6717abeff7763b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "e2145590cf7c258f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "hashathon/Analise de Mercado - Etapas.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "003e6527cffc81c6",
+  "lastOpenFiles": [
+    "hashathon/volatilidade_usdc 1.xlsx",
+    "hashathon/volatilidade_usdc.xlsx",
+    "hashathon/volatilidade_tether.xlsx",
+    "hashathon/volatilidade_ethereum.xlsx",
+    "hashathon/volatilidade_bnb 1.xlsx",
+    "hashathon/volatilidade_bnb.xlsx",
+    "hashathon/volatilidade_bitcoin.xlsx",
+    "hashathon/Pasted image 20261110084344.png",
+    "hashathon/Pasted image 20261110084226.png",
+    "Welcome.md",
+    "hashathon/Analise de Mercado - Etapas.md",
+    "hashathon",
+    "Untitled"
+  ]
+}
