@@ -34,7 +34,38 @@
 	CoinGecko![[Pasted image 20261110084226.png]]
 	CoinMarketCap![[Pasted image 20261110084344.png]]
 - a.3 - Volatilidade diária = ![[volatilidade_top10_cripto.xlsx]]
-- b.1  
+- b.1 
+	- Inicialmente a criptografia: "New Directions in Cryptography", criptografia de chaves públicas (1976)
+	- Ecash + Digicash by David Chaum (1983/1989)
+	- Popularização da internet (1990)
+	- Manifesto Cypherpunk (1993)
+	- E-gold, Gold & Silver Reserve Inc. (1996)
+	- HashCash, Adam Back (1997) - dinheiro eletrônico que evitava ataques de spam que poderiam derrubar a rede, serviu de referência para satoshi
+	- Início do Subprime + BitGold, cunhou o termo "Smart Contracts" (1998)
+	- Sistemas P2P, sistema de compartilhamento de arquivos, ex: Napster (1999)
+	- P2P x Client-Server: Client-Server há uma centralização dos serviços por meio de um servidor central, no P2P, não há um servidor central, cada usuário pode servir como cliente ou servidor.
+	- Dinheiro eletrônico + Sistemas P2P
+	- Crash do Subprime, dinheiro emprestado com alto risco -> insolvência, muitas pessoas sem renda ou patrimônio para quitar as dívidas, falência do Lehman Brothers em 15 de setembro (2008)
+	- Whitepaper Bitcoin, Satoshi Nakamoto. artigo cientifico explicando como fazer o dinheiro eletrônico dar certo (2008)
+	- bitcoin.org/bitcoin.pdf -> whitepaper do bitcoin
+	- críticas ao sistema financeiro global:
+		- processos obsoletos (ex: casas de cambio)
+		- reservas fracionárias (banco consegue emprestar mais doq possui)
+		- intervencionismo
+		- ciclos de crise, recessão, desemprego
+		- intermediários desnecessários
+	- recompensa por  validar transações (minerar) cai pela metade a cada 4 anos
+	- segurança por criptografia assimétrica (chaves públicas e privadas)
+	- grande inovação do bitcoin: mantém a ordem das transações, evitando gasto duplo.
+		- elimina intermediários de confiança, confiando apenas no algoritmo
+			- transparência e auditabilidade
+			- resistência a censura e imutabilidade
+			- robustez e segurança
+		- privacidade: meio termo entre fiat (em espécie) e cartão
+		- 3 Jan 2009 - Bloco Gênesis do Bitcoin
+		- bug catastrófico: number overflow error, era um buffer overflow (2010)
+		- nyk nyc - Mt. Gox
+		- 
 # 4 - Soluções e priorização
 
 
